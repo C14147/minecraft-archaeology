@@ -1,0 +1,3 @@
+rootProject.name = "Classic 0.0.14a 08"
+
+include("app")
